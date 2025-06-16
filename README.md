@@ -32,8 +32,8 @@ Você pode:
 - Interface amigável com botões e feedback visual
 
 📝 EXEMPLO DE PERGUNTA:
-Pergunta: Qual é a capital do Brasil?
-Resposta: Brasília
+- Pergunta: Qual é a capital do Brasil?
+- Resposta: Brasília
 
 🖥️ REQUISITOS:
 - Sistema: Windows 10 ou superior
