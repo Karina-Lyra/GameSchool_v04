@@ -41,6 +41,6 @@ Resposta: Brasília
 
 👩‍💻 CRIADO POR:
 Karina Scheila Alves Rodriguez Nery Lyra
-Uninter - RU: 4611457
+- Uninter - RU: 4611457
 
 📚 Boa diversão e bons estudos!
