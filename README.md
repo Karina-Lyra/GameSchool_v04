@@ -40,7 +40,7 @@ Resposta: Brasília
 - Não é necessário instalar Python ou nenhum programa extra
 
 👩‍💻 CRIADO POR:
-Karina Scheila  
-(Ilhéus/BA)
+Karina Scheila Alves Rodriguez Nery Lyra
+Uninter - RU: 4611457
 
 📚 Boa diversão e bons estudos!
